@@ -61,10 +61,10 @@ Select “Package Fields” to fill out this section. In this section of the met
 * Select Manually: Manually select your fields by looking at a list of each sample type
 * You may only use one of these options
  
-.. figure::  images/wizard1.png
+.. figure::  images/usewizard1.png
    :align:   center
  
-.. figure::  images/wizard2.png
+.. figure::  images/usewizard2.png
    :align:   center
  
 * If you select “Use Wizard”, you must go through 2 layers to select your sample type.
